@@ -4,12 +4,12 @@ This project is a REST API service built using Spring Boot for managing a librar
 --
 
 ## Features
-✅ Add, update, delete, and view products
-✅ Search products by vendor
-✅ Filter products by price range or stock
-✅ Validate unique SKU before insertion
-✅ Return appropriate HTTP status codes (200, 201, 400, 404)
-✅ Uses H2 (in-memory) or MySQL database
-✅ Layered architecture: Controller → Service → Repository
+✅ Add, update, delete, and view products.
+✅ Search products by vendor.
+✅ Filter products by price range or stock.
+✅ Validate unique SKU before insertion.
+✅ Return appropriate HTTP status codes (200, 201, 400, 404).
+✅ Uses H2 (in-memory) or MySQL database.
+✅ Layered architecture: Controller → Service → Repository.
 
 
