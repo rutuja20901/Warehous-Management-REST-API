@@ -1,5 +1,5 @@
 # Warehouse-Management-REST-API
-This project is a REST API service built using Spring Boot for managing a library. The API supports CRUD (Create, Read, Update, Delete) operations to manage book information. This implementation is designed for easy testing and scalability.
+This project is a REST API service built using Spring Boot for managing a library. The API supports CRUD (Create, Read, Update, Delete) operations to manage product information. This implementation is designed for easy testing and scalability.
 
 --
 
@@ -62,12 +62,12 @@ Here is an example of the JSON representation of a product object:
 
 ---
 
-### Running the Application
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/warehouse-management-system.git
-   ```
+## Running the Application
 
+1. Clone the repository:
+```bash
+git clone https://github.com/yout-username/warehouse-management-system.git
+```
 2. Open in IDE (IntelliJ / VS Code / Eclipse)
 3. Run WarehouseManagementSystemApplication.java
 4. Test APIs using Postman or Swagger
